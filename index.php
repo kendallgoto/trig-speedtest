@@ -101,6 +101,6 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mathquill/0.10.1/mathquill.min.js" integrity="sha256-dxKVPdWCaZTdphHQqQEc0GSDAVZJCxshwn3ZrvHtqgo=" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.16.1/math.min.js" integrity="sha256-wJQ5XiravbKAJOLaaVRSETNZdRi9ne55xWeA04OCEsY=" crossorigin="anonymous"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
-	<script src="/trig/script.js"></script>
+	<script src="/trig/script.js?nov2"></script>
   </body>
 </html>
